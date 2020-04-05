@@ -1,0 +1,7 @@
+
+news_api_key = '33ede7271aef44519e8eb053fdbd6090'
+bitly_access_token = 'd59c72231d1e0af01163e109af60fb0c2f2a47c2'
+twitter_consumer_key = 'lhtxbp16YOvudntBGHHIrgZXf'
+twitter_consumer_secret = '2tzokoWIEnitwXIAO1RH6d3mVnXw2KxotHtnSfQkPoZJ0182S4'
+twitter_access_key = '2190403325-e83QeEpDsWMw5oznA7Ceh5pFI7PFUxEt97JcB5g'
+twitter_access_secret = 'bbmPfog0UZs6JsMFpTLQZC4ZPVWwdb2J33P6ekyV1hYuf'
